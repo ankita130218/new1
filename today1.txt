@@ -1,3 +1,4 @@
 Kafka data warehouse
 Aws Glue Athena(Query editor)
 Redshift AWS data warehouse
+def fun(): bcz I told
